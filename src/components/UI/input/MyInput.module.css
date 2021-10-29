@@ -1,0 +1,14 @@
+.myInput {
+  width: 320px;
+  height: 25px;
+  opacity: 100%;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid rgb(141, 170, 224);
+  outline: none;
+  background-color: #E5E5E5;
+}
+.myInput:focus {
+  background-color: #E5E5E5;
+}
